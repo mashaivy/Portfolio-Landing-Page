@@ -7,4 +7,21 @@
 width:200px;
 height:200px;
 border-radius: 50%;
+align-self: center;
+position: relative;
+top: 20px;
+}
+
+h4
+{
+  text-align: center;
+  position: relative;
+top: 20px;
+}
+
+h1
+{
+position: relative;
+top: 20px;
+  text-align: center;
 }
