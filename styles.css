@@ -1,4 +1,8 @@
+.t1
 {
+position: relative;
+top: 20px;
+text-align: center;
  text-decoration: underline;
 }
 
@@ -24,7 +28,6 @@ h5
   font-family: cursive;
 }
 
-.t1
-{
-  color: purple;
+body
+{ background-color: #fbebfc;
 }
