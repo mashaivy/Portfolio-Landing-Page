@@ -12,7 +12,7 @@ top: 20px;
 }
 
 
-h1,h6, h5
+h1, h6, h5
 {
 position: relative;
 top: 20px;
@@ -24,7 +24,7 @@ h5
   font-family: cursive;
 }
 
-span
+.t1
 {
-color: purple;
+  color: purple;
 }
