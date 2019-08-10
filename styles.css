@@ -32,3 +32,8 @@ font-family: cursive;
 body
 { background-color: #fbebfc;
 }
+
+img.main {
+float: right;
+border-radius: 8px;
+}
