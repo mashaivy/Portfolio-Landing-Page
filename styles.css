@@ -1,4 +1,4 @@
-.he:hover {
+{
  text-decoration: underline;
 }
 
@@ -7,21 +7,24 @@
 width:200px;
 height:200px;
 border-radius: 50%;
-align-self: center;
 position: relative;
 top: 20px;
 }
 
-h4
-{
-  text-align: center;
-  position: relative;
-top: 20px;
-}
 
-h1
+h1,h6, h5
 {
 position: relative;
 top: 20px;
   text-align: center;
+}
+
+h5
+{
+  font-family: cursive;
+}
+
+span
+{
+color: purple;
 }
