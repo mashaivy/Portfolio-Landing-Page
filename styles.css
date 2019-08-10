@@ -37,3 +37,10 @@ img.main {
 float: right;
 border-radius: 8px;
 }
+
+div {
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+}
